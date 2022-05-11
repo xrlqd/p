@@ -1,0 +1,24 @@
+.img_class{
+    width: 300px;
+    border-radius: 70px;
+}
+
+.img_role{
+    width: 0px;
+    position: relative;
+    left: 0;
+    top: -150px;
+}
+
+.users{
+    display: flex;
+}
+
+.users div{
+    margin: 15px;
+}
+
+.users h2, .users h4{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
